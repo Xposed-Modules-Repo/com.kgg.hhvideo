@@ -14,4 +14,4 @@
 
 如果您觉得好用，请给个打赏，谢谢！
 
-![](https://github.com/Xposed-Modules-Repo/com.kgg.hhvideo/raw/master/image/alipay.jpg)
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/alipay.jpg)
