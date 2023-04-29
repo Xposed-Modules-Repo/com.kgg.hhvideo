@@ -4,6 +4,8 @@
 
 # 更新日志
 
+2023.04.29&nbsp;&nbsp;&nbsp;&nbsp;v1.0.5&nbsp;&nbsp;&nbsp;&nbsp;适配555影视v3.0.9.1版本(如遇提示环境不安全，请将555电影添加到Magisk排除列表)
+
 2023.02.19&nbsp;&nbsp;&nbsp;&nbsp;v1.0.4&nbsp;&nbsp;&nbsp;&nbsp;去我的收藏、播放记录、本地下载页面广告
 
 2023.02.18&nbsp;&nbsp;&nbsp;&nbsp;v1.0.3&nbsp;&nbsp;&nbsp;&nbsp;去搜索页面广告
@@ -14,4 +16,8 @@
 
 如果您觉得好用，请给个打赏，谢谢！
 
-![](https://github.com/Xposed-Modules-Repo/com.kgg.hhvideo/raw/master/image/alipay.jpg)
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/mm_reward.png)
+
+
+
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/alipay.jpg)
