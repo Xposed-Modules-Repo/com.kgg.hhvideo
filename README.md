@@ -4,6 +4,8 @@
 
 # 更新日志
 
+2023.09.13&nbsp;&nbsp;&nbsp;&nbsp;v1.0.6&nbsp;&nbsp;&nbsp;&nbsp;去闪屏页面、竖屏播放页面、搜索页面广告
+
 2023.04.29&nbsp;&nbsp;&nbsp;&nbsp;v1.0.5&nbsp;&nbsp;&nbsp;&nbsp;适配555影视v3.0.9.1版本(如遇提示环境不安全，请将555电影添加到Magisk排除列表)
 
 2023.02.19&nbsp;&nbsp;&nbsp;&nbsp;v1.0.4&nbsp;&nbsp;&nbsp;&nbsp;去我的收藏、播放记录、本地下载页面广告
