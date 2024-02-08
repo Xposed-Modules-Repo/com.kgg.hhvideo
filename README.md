@@ -4,6 +4,8 @@
 
 # 更新日志
 
+2024.02.08&nbsp;&nbsp;&nbsp;&nbsp;v1.0.8&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.0.9.7版本
+
 2023.09.27&nbsp;&nbsp;&nbsp;&nbsp;v1.0.7&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.0.9.5版本
 
 2023.09.13&nbsp;&nbsp;&nbsp;&nbsp;v1.0.6&nbsp;&nbsp;&nbsp;&nbsp;去闪屏页面、竖屏播放页面、搜索页面广告
