@@ -2,6 +2,8 @@
 
 电影猎手App[点击下载](https://d22kk6r2ro4ut2.cloudfront.net/jg4fna.pdf)去广告模块，仅用于学习交流，请勿用于任何非法用途
 
+无法安装Xposed框架的手机，可使用LSPatch将本模块嵌入到电影猎手App中，效果是一样的
+
 # 更新日志
 
 2024.05.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.11&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.0版本
@@ -17,7 +19,3 @@
 如果您觉得好用，请给个打赏，谢谢！
 
 ![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/mm_reward.png)
-
-
-
-![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/alipay.jpg)
