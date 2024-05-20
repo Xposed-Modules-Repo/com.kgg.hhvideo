@@ -1,8 +1,10 @@
 # 电影猎手(原555电影)去广告
 
-电影猎手App[点击下载](https://d22kk6r2ro4ut2.cloudfront.net/jg4fna.pdf)去广告模块，仅用于学习交流，请勿用于任何非法用途
+[电影猎手App](https://d22kk6r2ro4ut2.cloudfront.net/jg4fna.pdf)去广告模块，仅用于学习交流，请勿用于任何非法用途
 
-无法安装Xposed框架的手机，可使用LSPatch将本模块嵌入到电影猎手App中，效果是一样的
+神秘观影App，免费好用，低调分享，内容丰富，人手必备，不会失望！
+
+无法安装Xposed框架的手机，可使用[LSPatch](https://github.com/LSPosed/LSPatch/releases/download/v0.6/manager-v0.6-398-release.apk)将本模块嵌入到电影猎手App中，效果是一样的
 
 # 更新日志
 
