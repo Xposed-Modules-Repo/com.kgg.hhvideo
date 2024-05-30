@@ -1,6 +1,6 @@
 # 电影猎手(原555电影)去广告
 
-[电影猎手App](https://d1sey1quwphlxf.cloudfront.net/gp4w2u.pdf)去广告模块，仅用于学习交流，请勿用于任何非法用途
+[电影猎手App](https://d22kk6r2ro4ut2.cloudfront.net/cr5inu.pdf)去广告模块，仅用于学习交流，请勿用于任何非法用途
 
 神秘观影App，免费好用，低调分享，内容丰富，人手必备，不会失望！
 
