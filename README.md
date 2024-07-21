@@ -16,8 +16,6 @@
 
 2024.02.11&nbsp;&nbsp;&nbsp;&nbsp;v1.0.9&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.0.9.8版本
 
-2024.02.08&nbsp;&nbsp;&nbsp;&nbsp;v1.0.8&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.0.9.7版本
-
 # Buy me a beer
 
 如果您觉得好用，请给个打赏，谢谢！
