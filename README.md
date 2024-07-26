@@ -8,7 +8,7 @@
 
 # 更新日志
 
-2024.07.21&nbsp;&nbsp;&nbsp;&nbsp;v1.0.12&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.3内测版本
+2024.07.26&nbsp;&nbsp;&nbsp;&nbsp;v1.0.13&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.4版本
 
 2024.05.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.11&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.0版本
 
