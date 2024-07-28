@@ -12,12 +12,12 @@
 
 2024.05.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.11&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.0版本
 
-2024.02.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.10&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.0.9.9版本
+# 打个广告
 
-2024.02.11&nbsp;&nbsp;&nbsp;&nbsp;v1.0.9&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.0.9.8版本
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/stsh.png)
 
-# Buy me a beer
+安利一个微信小程序，打车、加油、寄快递、点外卖、住酒店、看电影、都有折扣，充话费、电费96折，还可领取拼多多、淘宝、京东、唯品会等电商购物优惠券
 
-如果您觉得好用，请给个打赏，谢谢！
+模块开发不易，还请多多支持!
 
-![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/mm_reward.png)
+
