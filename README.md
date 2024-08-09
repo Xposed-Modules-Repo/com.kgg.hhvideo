@@ -14,10 +14,12 @@
 
 # 安利一个微信小程序
 
+#小程序://省团生活/省团生活/tNzKj14wLGB5xuE
+
 打车、加油、寄快递、点外卖、住酒店、看电影、都有折扣，充话费、电费96折，还可领取拼多多、淘宝、京东、唯品会等电商购物优惠券
 
-![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/stsh.png)
+# 模块开发不易，请多多支持
 
-模块开发不易，还请多多支持!
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/mm_reward.png)
 
 
