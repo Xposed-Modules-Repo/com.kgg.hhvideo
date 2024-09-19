@@ -4,7 +4,7 @@
 
 神秘观影App，免费好用，低调分享，内容丰富，人手必备，不会失望！
 
-无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123pan.com/s/XY3fjv-hl9Kd)
+无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123pan.com/s/XY3fjv-hl9Kd)(建议清除一下数据)
 
 # 更新日志
 
