@@ -4,9 +4,11 @@
 
 神秘观影App，免费好用，低调分享，内容丰富，人手必备，不会失望！
 
-无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123pan.com/s/XY3fjv-aI9Kd)
+无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123pan.com/s/XY3fjv-hl9Kd)
 
 # 更新日志
+
+2024.09.19&nbsp;&nbsp;&nbsp;&nbsp;v1.0.15&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.5(0918v3)版本
 
 2024.08.16&nbsp;&nbsp;&nbsp;&nbsp;v1.0.14&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.4(f0731)版本
 
