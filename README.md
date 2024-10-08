@@ -4,15 +4,13 @@
 
 神秘观影App，免费好用，低调分享，内容丰富，人手必备，不会失望！
 
-无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123pan.com/s/XY3fjv-hl9Kd)(建议清除一下数据)
+无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123684.com/s/XY3fjv-mj9Kd)
 
 # 更新日志
 
+2024.10.08&nbsp;&nbsp;&nbsp;&nbsp;v1.0.16&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.6版本
+
 2024.09.19&nbsp;&nbsp;&nbsp;&nbsp;v1.0.15&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.5(0918v3)版本
-
-2024.08.16&nbsp;&nbsp;&nbsp;&nbsp;v1.0.14&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.4(f0731)版本
-
-2024.05.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.11&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.0版本
 
 # 安利一个微信小程序
 
@@ -21,5 +19,7 @@
 ![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/stsh.png)
 
 模块开发不易，还请多多支持!
+
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/mm_reward.png)
 
 
