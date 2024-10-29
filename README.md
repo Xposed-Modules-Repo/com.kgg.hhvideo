@@ -1,16 +1,16 @@
 # 电影猎手(原555电影)去广告
 
-[电影猎手App](https://dyls1.bond)去广告模块，仅用于学习交流，请勿用于任何非法用途
+[电影猎手App](https://dyls.club/)去广告模块，仅用于学习交流，请勿用于任何非法用途
 
 神秘观影App，免费好用，低调分享，内容丰富，人手必备，不会失望！
 
-无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123684.com/s/XY3fjv-mj9Kd)
+无法安装Xposed框架的手机，可直接下载使用[内置模块版](https://www.123684.com/s/XY3fjv-XEQKd)
 
 # 更新日志
 
-2024.10.08&nbsp;&nbsp;&nbsp;&nbsp;v1.0.16&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.6版本
+2024.10.30&nbsp;&nbsp;&nbsp;&nbsp;v1.0.17&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.7版本
 
-2024.09.19&nbsp;&nbsp;&nbsp;&nbsp;v1.0.15&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.5(0918v3)版本
+2024.10.08&nbsp;&nbsp;&nbsp;&nbsp;v1.0.16&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.6版本
 
 # 安利一个微信小程序
 
