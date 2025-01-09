@@ -6,12 +6,13 @@
 
 # 更新日志
 
-2025.01.07&nbsp;&nbsp;&nbsp;&nbsp;v1.0.19&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.9版本
+2025.01.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.19&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.9版本
 
-# 安利一个微信小程序
-
-打车、加油、寄快递、点外卖、住酒店、看电影、都有折扣，充话费、电费96折，还可领取拼多多、淘宝、京东、唯品会等电商购物优惠券
-
-![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/stsh.png)
+# 省团生活App，吃喝玩乐都有优惠
+---------------
+省团生活APP
+下载链接：https://a.app.qq.com/o/simple.jsp?pkgname=com.hs.stsh.android
+---------------
+或应用市场搜索【省团生活】下载注册，填写邀请码：BDWTDTYU
 
 
