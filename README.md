@@ -8,8 +8,6 @@
 
 2025.01.18&nbsp;&nbsp;&nbsp;&nbsp;v1.0.20&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.0版本
 
-2025.01.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.19&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.0.9版本
-
 # 省团生活App，吃喝玩乐都有优惠
 
 下载链接：https://a.app.qq.com/o/simple.jsp?pkgname=com.hs.stsh.android
