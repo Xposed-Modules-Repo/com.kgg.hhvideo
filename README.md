@@ -1,6 +1,6 @@
 # 电影猎手(原555电影)去广告
 
-[电影猎手App](https://mp.rongmanit.com/dyls/app)去广告版，仅用于学习交流，请勿用于任何非法用途
+[电影猎手App](https://kgg.rongmanit.com/dyls/DYLS-3.1.1.1.apk)去广告模块，仅用于学习交流，请勿用于任何非法用途
 
 神秘观影App，低调分享，内容丰富，人手必备，不会失望！
 
