@@ -8,9 +8,9 @@
 
 2025.02.22&nbsp;&nbsp;&nbsp;&nbsp;v1.0.21&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.1版本
 
-# 蓝天视频
+# 地瓜视频
 
-推荐一个电影猎手的平替App，不含黄色内容，加载速度飞快，下载地址：https://www.123912.com/s/XY3fjv-rmEKd
+推荐一个电影猎手的平替App，不含黄色内容，加载速度飞快，下载地址：https://www.123912.com/s/XY3fjv-H2EKd
 
 # QQ交流群：1030045081
 
