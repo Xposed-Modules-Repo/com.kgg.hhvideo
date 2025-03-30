@@ -12,8 +12,4 @@
 
 推荐一个电影猎手的平替App，不含黄色内容，加载速度飞快，下载地址：https://www.123912.com/s/XY3fjv-H2EKd
 
-# QQ交流群：1030045081
-
-![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/qq.jpg)
-
-
+# QQ交流群：1043390608
