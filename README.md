@@ -6,6 +6,8 @@
 
 # 更新日志
 
+2025.04.02&nbsp;&nbsp;&nbsp;&nbsp;v1.0.22&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.4版本
+
 2025.02.22&nbsp;&nbsp;&nbsp;&nbsp;v1.0.21&nbsp;&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.1版本
 
 # 地瓜视频
